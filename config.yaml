@@ -1,15 +1,20 @@
 baseURL: https://rohin-nayar.github.io/Finance-Blog/
 languageCode: en-us
-title: My New Hugo Site
+title: Finance Blog
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
 theme: ["PaperMod"]
 params:
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "Market Digest: Your Weekly Financial Brief"
     Content: >
       👋 Welcome to the Finance Blog!
+      This blog is a collection of weekly posts on a range of finance related topics inlcuding:
+      - **Bullet Movements**: Provides insights into current market news and financial trends.
+      - **Options, Futures & Derivatives**: Ongoing series covering various topics like interest rates, options and the Greeks.
+      - **Mathematics in Finance Applications**: Deep dive into stochastic calculus for financial analysis.
+      - **Reinforcement Learning**: Series exploring reinforcement learning for financial applications.
 
   socialIcons:
     - name: github
