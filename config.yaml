@@ -8,7 +8,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: "Market Digest: Your Weekly Financial Brief"
-    Content: >
+    Content: |
       👋 Welcome to the Finance Blog!
       This blog is a collection of weekly posts on a range of finance related topics inlcuding:
       - **Bullet Movements**: Provides insights into current market news and financial trends.
