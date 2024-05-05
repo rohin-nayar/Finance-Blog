@@ -7,13 +7,17 @@ module:
 theme: ["PaperMod"]
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Welcome to my blog
+    Title: "PaperMod's Demo"
+    Content: >
+      👋 Welcome to the Finance Blog!
 
-  socialIcons: # optional
-    - name: "<LinkedIn>"
-      url: "<https://www.linkedin.com/in/rohinnayar/>"
-    - name: "<GitHub>"
-      url: "<https://github.com/rohin-nayar>"
-    - name: "LeetCode"
-      url: "<https://leetcode.com/u/RohinN/>"
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/rohin-nayar"
+    - name: LinkedIn
+      title: Connect on LinkedIn
+      url: "https://www.linkedin.com/in/rohinnayar/"
+    - name: Leetcode
+      title: View Leetcode Profile
+      url: "https://leetcode.com/u/RohinN/"
