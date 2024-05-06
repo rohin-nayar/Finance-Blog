@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Docs on My New Hugo Site</title>
+    <title>Docs on Finance Blog</title>
     <link>http://localhost:1313/Finance-Blog/docs/</link>
-    <description>Recent content in Docs on My New Hugo Site</description>
+    <description>Recent content in Docs on Finance Blog</description>
     <generator>Hugo -- 0.125.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2024 17:07:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/Finance-Blog/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/Finance-Blog/docs/test/</link>
+      <title>Market Bullet Movements</title>
+      <link>http://localhost:1313/Finance-Blog/docs/markets_06052024/</link>
       <pubDate>Sun, 05 May 2024 17:07:19 +0100</pubDate>
-      <guid>http://localhost:1313/Finance-Blog/docs/test/</guid>
-      <description>First Page This is the first page after hours of figuring it out!</description>
+      <guid>http://localhost:1313/Finance-Blog/docs/markets_06052024/</guid>
+      <description>Market Key Highlights Amazon’s Cloud Dominance Continues: Amazon Web Services (AWS) showcased an impressive performance with a 17% year-on-year sales increase, totaling $25 billion in the first quarter of 2024. This marks a significant acceleration in AWS&amp;rsquo;s growth trajectory, reinforcing its leadership in the cloud computing sector.
+Pharmaceutical Sector Highlights: Novo Nordisk&amp;rsquo;s Wegovy, a leading weight-loss drug, has propelled the company to become one of Europe’s most valued pharmaceutical firms. In a robust start to the year, drug developers have successfully raised $6.</description>
     </item>
   </channel>
 </rss>
