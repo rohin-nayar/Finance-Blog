@@ -6,14 +6,31 @@
     <description>Recent content in Posts on Finance Blog</description>
     <generator>Hugo -- 0.125.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2024 17:07:19 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 17:07:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/Finance-Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Market Bullet Movements</title>
+      <title>Market News &amp; Interest Rates - May 19, 2024</title>
+      <link>http://localhost:1313/Finance-Blog/posts/post-05_19_24/</link>
+      <pubDate>Sun, 19 May 2024 17:07:19 +0100</pubDate>
+      <guid>http://localhost:1313/Finance-Blog/posts/post-05_19_24/</guid>
+      <description>Market News Raspberry Pi IPO: The British manufacturer of low-cost computer modules for industrial applications is planning to list on the London Stock Exchange. This move highlights the increasing market interest in affordable computing solutions.
+US Inflation Update: US inflation has decreased to 3.4%, aligning with economists&amp;rsquo; predictions. This development has spurred investors to increase their bets on potential cuts to Federal Reserve interest rates. Notably, the inflation data from April last year will be phased out this week.</description>
+    </item>
+    <item>
+      <title>Market Bullet Movements 13/05/24</title>
+      <link>http://localhost:1313/Finance-Blog/posts/post-05_12_24/</link>
+      <pubDate>Mon, 13 May 2024 17:07:19 +0100</pubDate>
+      <guid>http://localhost:1313/Finance-Blog/posts/post-05_12_24/</guid>
+      <description>Latest Market News and Highlights Chinese Bond Market Activity Chinese authorities have initiated the sale of ¥1 trillion ($140 billion) in long-dated bonds. This move aims to enhance liquidity in the market for longer-term Chinese bonds.
+Foreign Exchange Hedging Amid Geopolitical Risks In the context of increasing geopolitical risks and diverging economies, hedging foreign exchange exposure has become increasingly crucial for global investors.
+UK Economic Developments The UK GDP has grown by 0.</description>
+    </item>
+    <item>
+      <title>Market Bullet Movements 05/05/24</title>
       <link>http://localhost:1313/Finance-Blog/posts/post-05_05_24/</link>
       <pubDate>Sun, 05 May 2024 17:07:19 +0100</pubDate>
       <guid>http://localhost:1313/Finance-Blog/posts/post-05_05_24/</guid>
-      <description>Market Key Highlights Amazon’s Cloud Dominance Continues: Amazon Web Services (AWS) showcased an impressive performance with a 17% year-on-year sales increase, totaling $25 billion in the first quarter of 2024. This marks a significant acceleration in AWS&amp;rsquo;s growth trajectory, reinforcing its leadership in the cloud computing sector.
+      <description>Amazon’s Cloud Dominance Continues: Amazon Web Services (AWS) showcased an impressive performance with a 17% year-on-year sales increase, totaling $25 billion in the first quarter of 2024. This marks a significant acceleration in AWS&amp;rsquo;s growth trajectory, reinforcing its leadership in the cloud computing sector.
 Pharmaceutical Sector Highlights: Novo Nordisk&amp;rsquo;s Wegovy, a leading weight-loss drug, has propelled the company to become one of Europe’s most valued pharmaceutical firms. In a robust start to the year, drug developers have successfully raised $6.</description>
     </item>
   </channel>
