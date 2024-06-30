@@ -1,5 +1,5 @@
 +++
-title = 'Interest & Inflation Rates - 19/05/24'
+title = 'Interest & Inflation Rates'
 date = 2024-05-19T17:07:19+01:00
 draft = false
 +++

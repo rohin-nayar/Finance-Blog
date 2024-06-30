@@ -1,5 +1,5 @@
 +++
-title = 'Market Bullet Movements 13/05/24'
+title = 'Market Bullet Movements'
 date = 2024-05-13T17:07:19+01:00
 draft = false
 +++
