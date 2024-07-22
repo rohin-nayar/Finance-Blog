@@ -1,3 +1,4 @@
++++
 title = 'Weekly Market Insghts - 21/07/24'
 date = 2024-07-21T21:55:00+01:00
 draft = false
