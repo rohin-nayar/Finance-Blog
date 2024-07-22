@@ -1,4 +1,4 @@
-title = 'Market Summary - 29/06/24'
+title = 'Weekly Market Insghts - 21/07/24'
 date = 2024-07-21T21:55:00+01:00
 draft = false
 +++
@@ -14,7 +14,7 @@ The assassination of former President Donald Trump sent shockwaves through the p
 
 **Biden Withdraws from Presidential Campaign**
 In another dramatic turn, President Joe Biden has ended his election campaign amidst calls to withdraw his candidacy. Biden has endorsed Vice President Kamala Harris as the new Democratic nominee for the upcoming presidential election. This shift has significant implications for market sentiment, particularly concerning future economic and regulatory policies.
-
+s
 ### Market-Specific Events
 
 **Semiconductor Stocks Plunge**
